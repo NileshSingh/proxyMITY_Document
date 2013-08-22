@@ -1,4 +1,3 @@
-===================
 Overall description
 ===================
 
@@ -35,7 +34,7 @@ Operating environment
 			1) Using microSD-Card
 			2) Using Wi-Fi
 			
-			Fig
+			Fig.
 
 		**Steps to Play lecture video:**
 			1) Insert microSD-Card in tablet
