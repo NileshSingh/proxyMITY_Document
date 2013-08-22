@@ -22,7 +22,7 @@ Independent, easy to operate and maintain.
 List of contents
 ----------------
 
-#. Introduction 
+#. Introduction <https://github.com/NileshSingh/proxyMITY_Document/blob/master/Intro_proxyMITY.rst> _
 
 #. Overall description 
 
