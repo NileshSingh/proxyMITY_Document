@@ -22,7 +22,7 @@ Independent, easy to operate and maintain.
 List of contents
 ----------------
 
-#. `Introduction < https://github.com/NileshSingh/proxyMITY_Document/blob/master/Intro_proxyMITY.rst >`_
+#. `Setting up the hardware <https://github.com/androportal/linux-on-aakash/blob/master/setting_up_the_hardware.rst>`_
 
 #. Overall description 
 
