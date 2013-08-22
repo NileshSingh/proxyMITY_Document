@@ -1,10 +1,10 @@
-===================
+
 Overall description
 ===================
 
-	1. Product perspective
+	**1. Product perspective**
 	----------------------
-		**Product Functionality**
+		**- Product Functionality**
 
 		- Students or User can easily view the lecture video present in the Micro-SDCard or on a server.
 
@@ -13,7 +13,7 @@ Overall description
 		- Published lectures will provide us virtual class room where students can see and listen
 		  any particular topic.
 
-		**Features**
+		**- Features**
 
 		- Android OS 4.0.3.
 		- Cortex A8, 1 Ghz Processor with HD Video Co Processor.
@@ -34,10 +34,11 @@ Overall description
 	------------------------
 
 		There are two ways to operate this tool:
+		
 			1) Using microSD-Card
 			2) Using Wi-Fi
 			
-			Fig
+			Fig.
 
 		Steps to Play lecture video:
 			1) Insert microSD-Card in tablet
