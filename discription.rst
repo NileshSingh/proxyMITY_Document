@@ -2,8 +2,8 @@
 Overall description
 ===================
 
-	1. Product perspective
-	----------------------
+	Product perspective
+	-------------------
 		**Product Functionality**
 
 		- Students or User can easily view the lecture video present in the Micro-SDCard or on a server.
@@ -26,20 +26,18 @@ Overall description
 		- Input Devices: Resistive Touch Screen.
 		- Connectivity through Wi-Fi IEEE 802.11 a/b/g.
 		- Battery: Up to 180 minutes of battery, AC adaptor 200.240 volts.
-
 		These versatile features of Aakash tablet makes this device very advantageous to use
 		in student response system, which can provide more facilities than Clicker.
 
-	2. Operating environment
-	------------------------
-
-		There are two ways to operate this tool:
+Operating environment
+=====================        	
+		**There are two ways to operate this tool:**
 			1) Using microSD-Card
 			2) Using Wi-Fi
 			
 			Fig
 
-		Steps to Play lecture video:
+		**Steps to Play lecture video:**
 			1) Insert microSD-Card in tablet
 			2) Select proxiMITY Tool
 			3) You will get List of lecture videos
