@@ -1,9 +1,8 @@
-
 Overall description
 ===================
 
-	**1. Product perspective**
-	----------------------
+		**- Product perspective**
+	
 		**- Product Functionality**
 
 		- Students or User can easily view the lecture video present in the Micro-SDCard or on a server.
