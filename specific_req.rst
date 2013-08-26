@@ -52,7 +52,11 @@ SPECIFIC REQUIREMENTS
 		5. Data Flow Diagram through SD-Card
 		6. Data Flow through Server
 
-		Fig.1.2.3.4.5.6
+.. image::
+  https://github.com/NileshSingh/proxyMITY_Document/master/images/usecase_application.png
+Fig.1.
+		
+		Fig 2.3.4.5.6
 
 **Other Non-functional requirements**
 -------------------------------------
