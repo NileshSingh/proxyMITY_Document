@@ -63,6 +63,7 @@ USER MANUAL FOR proxyMITY
                   
                   .. image::
 		    https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f7.png
+		    
 			- Fig 7
 		- Now in the Aakash Applications select the proxyMITY icon as shown in the figure(5).
 		- A list of lectures will be displayed as shown in the sample figure (8) below.
