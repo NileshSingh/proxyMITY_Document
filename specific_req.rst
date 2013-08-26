@@ -53,7 +53,7 @@ SPECIFIC REQUIREMENTS
 		6. Data Flow through Server
 
 .. image::
-  https://github.com/NileshSingh/proxyMITY_Document/master/images/usecase_application.png
+  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/usecase_application.png
 Fig.1.
 		
 		Fig 2.3.4.5.6
