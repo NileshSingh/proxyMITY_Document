@@ -66,60 +66,107 @@ USER MANUAL FOR proxyMITY
 			- Fig 7
 		- Now in the Aakash Applications select the proxyMITY icon as shown in the figure(5).
 		- A list of lectures will be displayed as shown in the sample figure (8) below.
+		
+			.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f8.png
 			- Fig 8
 		- The lectures will be played automatically from SDCard/pendrive.
-		- An example video is  shown in the figure(9 ) below. 
+		- An example video is  shown in the figure(9 ) below.
+		
+			.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f9.png
 			- Fig 9
 	
 	**3.2) View the lecture using Wi-Fi connectivity**
 	
 		- Connect Aakash Tablet with Wi-Fi.
 		- You can see an icon for Wi-Fi connection on top of the screen of tablet as shown figure (10) below. This
-                  means that tablet is connected with Wi-Fi.     
+                  means that tablet is connected with Wi-Fi.   
+                  
+                  	.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f10.png
 			- Fig 10
 		- Now in the Aakash Applications click on the proxyMITY-WiFi icon as shown in the figure(6).
 		- Select the menu button present on top as shown in figure(11) below .
+		
+			.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f11.png
 			- Fig 11      	
 		- Then ‘Wifi-Setting’ option in menu is displayed as shown in the figure (12) below.
+		
+			.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f12.png
 			- Fig 12
 		- A dialog box is displayed with an input text field as shown in figure (13).
+		
+			.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f13.png
 			- Fig 13
 		- Enter the IP address of the server from where you want to fetch the video lecture. 
 		  (eg: http://10.105.14.224/)
 		- Select OK to confirm. 
 		- Then you will a list of video lectures present on the server as shown in the figure(14) below.
+		
+			.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f14.png
 			- Fig 14
 4) Functionality
 ----------------
 	**4.1) Navigation**
 		- To navigate through the video lecture select the arrow button placed on the extreme right hand side of the 
 		  video lecture display as shown in the figure (15) below.
+		  
+		  	.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f15.png
 			- Fig 15
 		- A list of topics will be displayed on the extreme right.
 		- Select the desired topic to view.
+		
+			.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f16.png
 			- Fig 16
 	**4.2) Bookmark**
 		- To bookmark from particular time in the video lecture select the menu button present on top as shown in 
 		  figure(17) below.
+		  
+		  	.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f17.png
 			- Fig 17
 		- Then BookMark option and Choose Subtitle in menu is displayed as shown in the figure (18) below.
+		
+			.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f18.png
 			- Fig 18
 		- Then select the BookMark option.
 		- Then in the New Bookmark tab you will see the display as shown in the figure (19) below.
+		
+			.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f19.png
 			- Fig 19
 		- Then you have to enter the Video name and the Bookmark Tag as shown in example figure (20) below.
  		- The start time is the time of the video lecture when you selected the bookmark option from menu.
+ 		
+ 			.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f20.png
 			- Fig 20
 		- Now select Add Bookmark button to save the bookmark.
 		- When bookmark is saved, a message is displayed as shown in the figure (21) below.
+		
+			.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f21.png
 			- Fig 21
 		- The bookmark is the saved in the My Bookmarks tab as shown in the figure (22) below.
-
+		
+			.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f22.png
 			- Fig 22
 		- You can select the bookmark from My Bookmarks tab to view the video lecture present in the SD-card/pendrive/server
 		  from the time as saved in the My Bookmark.
  		- To update/delete the bookmark in the My Bookmark tab keep that particular bookmark pressed till you see a dialog 
 		  box as shown in the figure(23) below.
+		  
+		  	.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f23.png
 			- Fig 23
 		- Now you can update/delete that particular bookmark.
 
@@ -129,9 +176,15 @@ USER MANUAL FOR proxyMITY
 		- Then select the Choose Subtitle option.
 		- Then in the Choose Subtitle option you see display as shown in the sample figure (24) below.
 		- Figure (24) shows a list of .srt files which is retrieved from SD-card/pen drive/server. 
+		
+			.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f24.png
 			- Fig 24
 		- On select of the desired .srt file, the video lecture will be played from beginning along with subtitles displayed 
 		 at the bottom, as shown in the figure (25) below.
+		 
+		 	.. image::
+			  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f25.png
 			- Fig 25
 
 
