@@ -16,11 +16,8 @@ USER MANUAL FOR proxyMITY
 
 	- When you switch ON the tablet you will see on the screen, the display similar as shown in the figure(1)
           below.
-		  .. figure::  _image/1.png
-   		     :align:   center
-		     :height: 600px
-   		     :width: 800 px
-   		     :scale: 50 %
+		  .. image::
+		    https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f1.png
    		     
   			 
 
