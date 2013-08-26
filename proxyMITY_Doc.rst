@@ -22,13 +22,13 @@ Independent, easy to operate and maintain.
 List of contents
 ----------------
 
-#. Introduction 
+#. `Introduction <https://github.com/NileshSingh/proxyMITY_Document/blob/master/Intro_proxyMITY.rst>`_
 
-#. Overall description 
+#. `Overall description <https://github.com/NileshSingh/proxyMITY_Document/blob/master/discription.rst>`_ 
 
-#. Specific requirements 
+#. `Specific requirements <https://github.com/NileshSingh/proxyMITY_Document/blob/master/specific_req.rst>`_
 
-#. Other non functional requirements 
+        - Other non functional requirements 
 
 
 
