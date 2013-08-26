@@ -61,8 +61,8 @@ USER MANUAL FOR proxyMITY
 		- A message stating PREPARING SD CARD will be displayed on the notification bar on the top of the Aakash 
                   tablet screen as shown in the figure(7) below. This means the pendrive/SD card is ready for use.
                   
-                  .. image::
-		    https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f7.png
+.. image::
+  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f7.png
 		    
 			- Fig 7
 		- Now in the Aakash Applications select the proxyMITY icon as shown in the figure(5).
