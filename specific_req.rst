@@ -55,28 +55,27 @@ SPECIFIC REQUIREMENTS
 .. image::
   https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/usecase_application.png
 Fig.1.
-		
-		
+
 .. image::
   https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/usecase_lecture.png
-  Fig 2.
+Fig 2.
+
 .. image::
   https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/bookmark.png
-		
-		Fig.3.
+Fig.3.
 		
 .. image::
   https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/subtitle.png
-		Fig4.
+Fig4.
 		
 .. image::
   https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/dfd1.png
-		Fig.5.
+Fig.5.
 		
 		
 .. image::
   https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/dfd2.png
-		Fig.6.
+Fig.6.
 
 **Other Non-functional requirements**
 -------------------------------------
