@@ -23,18 +23,32 @@ USER MANUAL FOR proxyMITY
 
 	- Click on the launcher icon provided on the right hand side of the screen of the tablet as shown in the
           figure (2) below.
+          	.. image::
+		  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f2.png
 		- Fig 2
 	- Then you will see on the screen all the application present in the tablet.
 	- Then click on the Aakash Applications icon present in the tablet as shown in the figure (3) below.
-		- Fig 3
+	
+		.. image::
+		  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f3.png
+		    
 	- On click  of the Aakash Applications icon you will see the icons of  all the applications present  in the
           Aakash Applications as shown in the figure(4) below.
+          	.. image::
+		  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f4.png
 		- Fig 4
+		
 	- To view the lecture using SD card/pendrive, select  the proxyMITY icon present in the Aakash Applications
           as shown in the figure(5) below.
+          
+          	.. image::
+		  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f5.png
 		- Fig 5
 	- To view the lectures using Wi-Fi , select  the proxyMITY-WiFi icon present in the Aakash Applications as
           shown in the figure(6) below.
+          
+          	.. image::
+		  https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f6.png
 		- Fig 6
 
 3) View lecture from proxyMITY
@@ -46,6 +60,9 @@ USER MANUAL FOR proxyMITY
 		- Wait for 10 seconds for the pendrive/SD card to be detected by the Aakash tablet.
 		- A message stating PREPARING SD CARD will be displayed on the notification bar on the top of the Aakash 
                   tablet screen as shown in the figure(7) below. This means the pendrive/SD card is ready for use.
+                  
+                  .. image::
+		    https://raw.github.com/NileshSingh/proxyMITY_Document/master/images/f7.png
 			- Fig 7
 		- Now in the Aakash Applications select the proxyMITY icon as shown in the figure(5).
 		- A list of lectures will be displayed as shown in the sample figure (8) below.
